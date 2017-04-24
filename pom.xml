@@ -23,7 +23,7 @@
     <dependency>
       <groupId>io.ebean</groupId>
       <artifactId>querybean-agent</artifactId>
-      <version>10.1.4-FOC1</version>
+      <version>10.1.4-FOC2</version>
     </dependency>
 
     <dependency>
